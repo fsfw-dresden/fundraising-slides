@@ -10,8 +10,8 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    id="svg2"
-   viewBox="0 0 1899 455.79153"
-   height="455.79153"
+   viewBox="0 0 1899 510.47735"
+   height="510.47736"
    width="1899"
    inkscape:version="0.48.5 r10040"
    sodipodi:docname="ffi_feedback_loop.svg"
@@ -30,10 +30,10 @@
      inkscape:window-width="1366"
      inkscape:window-height="713"
      id="namedview104"
-     showgrid="true"
-     inkscape:zoom="0.35912633"
-     inkscape:cx="1165.1758"
-     inkscape:cy="511.2978"
+     showgrid="false"
+     inkscape:zoom="0.25394066"
+     inkscape:cx="630.9669"
+     inkscape:cy="733.56529"
      inkscape:window-x="-2"
      inkscape:window-y="-3"
      inkscape:window-maximized="1"
@@ -51,35 +51,35 @@
     <sodipodi:guide
        inkscape:locked="false"
        id="guide12465"
-       position="808.49999,546.49995"
+       position="808.49999,601.18576"
        orientation="0,1" />
     <sodipodi:guide
        inkscape:locked="false"
        id="guide12180"
-       position="1190.375,28.374962"
+       position="1190.375,83.060775"
        orientation="1,0" />
     <sodipodi:guide
        inkscape:locked="false"
        id="guide12182"
-       position="1835.9978,-589.98618"
+       position="1835.9978,-535.30037"
        orientation="1,0" />
     <sodipodi:guide
        inkscape:locked="false"
        id="guide12149"
-       position="475.52438,-90.76883"
+       position="475.52438,-36.083017"
        orientation="1,0" />
     <sodipodi:guide
        inkscape:locked="false"
        id="guide12151"
-       position="778.81249,48.062456"
+       position="778.81249,102.74827"
        orientation="1,0" />
     <sodipodi:guide
        inkscape:locked="false"
        id="guide12153"
-       position="764.74999,193.37496"
+       position="764.74999,248.06077"
        orientation="0,1" />
     <inkscape:grid
-       originy="-1158.5px"
+       originy="-1103.8142px"
        originx="393.5px"
        snapvisiblegridlinesonly="true"
        enabled="true"
@@ -91,10 +91,10 @@
        inkscape:locked="false"
        id="guide21128"
        orientation="1,0"
-       position="1565.375,-9.1250373" />
+       position="1565.375,45.560776" />
     <sodipodi:guide
        orientation="1,0"
-       position="1319.225,334.81022"
+       position="1319.225,389.49603"
        id="guide8603" />
   </sodipodi:namedview>
   <defs
@@ -1538,7 +1538,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1940,7 +1940,7 @@
      id="layer8"
      inkscape:label="layer1__[1--end]"
      style="display:inline"
-     transform="translate(418.37099,-72.526248)">
+     transform="translate(418.37099,-72.526247)">
     <path
        style="fill:none;stroke:#000000;stroke-width:2.99999952;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Lend-62);display:inline"
        d="m 921.55333,128.81777 42.8333,0 56.04677,39.7344"
@@ -2101,7 +2101,7 @@
      id="layer13"
      inkscape:label="up_arrows_1__[2--end]"
      style="display:inline"
-     transform="translate(416.99999,0.50000219)">
+     transform="translate(416.99999,0.50000286)">
     <path
        transform="translate(1.3709949,-73.026239)"
        sodipodi:nodetypes="cc"
@@ -2136,7 +2136,7 @@
      id="layer14"
      inkscape:label="funding_1__[2--end]"
      style="display:inline"
-     transform="translate(417,0.50000415)">
+     transform="translate(417,0.50000482)">
     <g
        id="g10944"
        transform="translate(-943.20599,-329.97053)">
@@ -2174,7 +2174,7 @@
      id="layer7"
      inkscape:label="layer2__[3--end]"
      style="display:inline"
-     transform="translate(418.37099,-72.526248)">
+     transform="translate(418.37099,-72.526247)">
     <path
        transform="translate(3.643949e-8,1.055928e-5)"
        sodipodi:nodetypes="cccccc"
@@ -2188,5 +2188,31 @@
        id="path9122"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
+    <rect
+       style="fill:#e6e6e6;fill-opacity:1;stroke:#333333;stroke-width:1.99999988;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect14826"
+       width="180.44919"
+       height="110.47735"
+       x="466.67981"
+       y="471.52625"
+       rx="9.999999"
+       ry="10" />
+    <text
+       xml:space="preserve"
+       style="font-size:54.73199081px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="515.29858"
+       y="543.31403"
+       id="text14828"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan14830"
+         x="515.29858"
+         y="543.31403">FFI</tspan></text>
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path14839"
+       d="m 675.92773,526.81778 -25.79872,0"
+       style="fill:none;stroke:#000000;stroke-width:2.99999976;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Lend-62);display:inline" />
   </g>
 </svg>

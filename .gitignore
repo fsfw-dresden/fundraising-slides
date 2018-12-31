@@ -1,0 +1,12 @@
+*.log
+*.toc
+*.nav
+*.tex~
+*.aux
+*.bbl
+*.snm
+*.synctex.gz
+*.blg
+*.out
+*.tex.backup
+Fund-Raising_for_Free_Software--Thinking_Big.pdf
